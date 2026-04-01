@@ -2,10 +2,10 @@
 
 This folder contains four files participants are expected to modify and submit for Test Case 1:
 
-1. **XXX\_TC1\_FM.dat** = Converged or time-averaged Force and Moment data vs. angle of attack, multiple grid levels may be included 
-2. **XXX\_TC1\_gridconvergence\_FM.dat** =  Converged or time-averaged Force and Moment data vs. grid level, multiple angles of attack may be included (this is a transpse of #1)
-3. **XXX\_TC1\_nominalgrid\_cpcf.dat** = Surface pressure and skin friction distributions at locations corresponding to experimental pressure belts. These are defined here: <insert link to distribution definition> 
-4. **XXX\_TC1\_nominalgrid\_iterative.dat** = Solver iterative convergence with respect to iteration, or if time-dependent, with respect to convective time
+1. **FM.dat** = Converged or time-averaged Force and Moment data vs. angle of attack, multiple grid levels may be included 
+2. **gridconvergence\_FM.dat** =  Converged or time-averaged Force and Moment data vs. grid level, multiple angles of attack may be included (this is a transpse of #1)
+3. **nominalgrid\_cpcf.dat** = Surface pressure and skin friction distributions at locations corresponding to experimental pressure belts. These are defined here: <insert link to distribution definition> 
+4. **nominalgrid\_iterative.dat** = Solver iterative convergence with respect to iteration, or if time-dependent, with respect to convective time
 
 Additionally, participants should revise the Readme.md (this file) within their submission directory to include the following data:
 
@@ -23,7 +23,6 @@ Insert POC phone here
 ## Address:  
 Insert POC address here
  
-
 # SOLVER INFORMATION:
 
 ## Solver Name and Version:
