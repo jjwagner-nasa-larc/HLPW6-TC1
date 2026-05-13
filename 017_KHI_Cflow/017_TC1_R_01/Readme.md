@@ -68,7 +68,10 @@ Insert grid type here
 Insert number of nodes here (multiple lines if grid convergence study was done)
 
 ## Number of Total Cells:
-Insert number of cells here (multiple lines if grid convergence study was done)
+B: 5,730,017  
+C: 17,156,245  
+D: 38,396,609
+E: 121,556,748
 
 ## Miscellaneous:  
 Insert any other information about the grids or solution procedure(s) used for Case 2.1 here
